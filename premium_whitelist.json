@@ -1,12 +1,3 @@
 {
-    "premium_whitelisted_users": [
-        {
-            "discord_id": "345678901234567890",
-            "roblox_id": "1122334455"
-        },
-        {
-            "discord_id": "456789012345678901",
-            "roblox_id": "4954755343"
-        }
-    ]
+    "blacklisted_users": []
 }
